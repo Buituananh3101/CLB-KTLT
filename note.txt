@@ -1,2 +1,2 @@
 git fetch --all --prune
-git branch -d buoi6/main
+git branch -D buoi6/main
