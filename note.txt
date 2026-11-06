@@ -3,3 +3,9 @@ git fetch --all --prune
 git branch -D buoi6/main
 
 https://meet.google.com/obh-fxmw-zer
+
+DD:
+https://docs.google.com/spreadsheets/d/1Srz33M8vkxJF_nceQBnauHWDWQbYzUeLtTdg3csKfOY/edit?gid=0#gid=0
+
+BT:
+https://docs.google.com/spreadsheets/d/1nlJiwPMq97KcHQoyNqCvxscwLYH9cs9MBqjVaaupYqM/edit?gid=0#gid=0
