@@ -1,0 +1,32 @@
+Phần A:Chữa trên lớp
+
+Bài 1: Cho dãy số gồm n số thực a1, a2, ..., an. Hãy
+
+1. Tìm giá trị lớn nhất và giá trị nhỏ nhất của dãy số trên. Kiểm tra xem hiệu giữa giá trị lớn nhất và nhỏ nhất tìm được có lớn hơn 10 không?
+2.Tìm 3 số lớn nhất của dãy
+
+Bài 2: Nhập số thực r và tọa độ của n điểm trên mặt phẳng xOy. Hãy:
+Đếm số điểm nằm bên trong nửa đường tròn tâm O(0, 0) bán kính r 
+
+Bài 3: Cho ma trận m hàng n cột
+Tính tổng/ hiệu hai ma trận
+
+
+Phần B: Bài tập về nhà 
+
+Bài 4: Cho dãy n số nguyên a1,a2,...., an. Hãy:
+
+1. Nhập dãy số từ bàn phím.
+2. In dãy vừa nhập
+3. Kiểm tra xem dãy có phải là dãy đối xứng không? ( dãy đối xứng là dãy có an = a1,an-1= a2....)
+ 
+Bài 5: Nhập tọa độ của n điểm trên mặt phẳng xOy. Hãy:
+ Đếm số điểm không thuộc góc phần tư thứ nhất của hệ trục tọa độ xOy? Kiểm tra
+xem số điểm tìm được có chia hết cho 5 không?
+
+Bài 6: Cho ma trận m hàng n cột
+Tính tích hai ma trận
+kiểm tra xem có phải ma trận tam giác trên không
+
+
+
