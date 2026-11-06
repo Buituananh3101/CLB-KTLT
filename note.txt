@@ -1,1 +1,2 @@
 git fetch --all --prune
+git branch -d buoi6/main
