@@ -1,2 +1,5 @@
 git fetch --all --prune
+
 git branch -D buoi6/main
+
+https://meet.google.com/obh-fxmw-zer
