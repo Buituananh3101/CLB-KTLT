@@ -1,0 +1,3 @@
+con trỏ:
+    là 1 biến
+    lưu địa   --> lưu địa chỉ gì?
