@@ -1,3 +1,12 @@
 con trỏ:
     là 1 biến
     lưu địa   --> lưu địa chỉ gì?
+
+bài toán:
+    TruongHoc th;
+    TruongHocMoi* thm;
+
+    thm = th 
+    thm = &th
+
+
